@@ -9,5 +9,5 @@ Analyze the approximate number of passengers who are eligible for each Lounge ac
 Predict consumer buying behaviour by analyzing a dataset and determining which factor is most impactful on booking completion using a Random Forest model.
 
 
-*Predicting_Customer_Buying_Behaviours.ipynb* - The Python file related to Task 2.
+*Predicting_Customer_Buying_Behaviours.ipynb* - The Python file related to Task 2.\\
 *customer_booking.xls* - The dataset utilized for Task 2.
