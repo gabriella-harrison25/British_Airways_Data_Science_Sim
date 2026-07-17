@@ -14,3 +14,5 @@ Predict consumer buying behaviour by analyzing a dataset and determining which f
 *Predicting_Customer_Buying_Behaviours.ipynb* - The Python file related to Task 2.
 
 *customer_booking.xls* - The dataset utilized for Task 2.
+
+*British Airways - Customer Buying Behaviour Predictions.pdf* - The final presentation.
